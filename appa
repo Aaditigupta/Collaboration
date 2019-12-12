@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 ... Hi This is Nihar
+=======
+<<<<<<< HEAD
+#!/bin/bash
+echo "Aditi"
+
+=======
+hello. this is Arnab
+>>>>>>> 112d1321efe65e57f22157fcbfda2b702896c802
+>>>>>>> deccfdccf84cc7951d3b3c0cebdf38f0a11f4fdd
